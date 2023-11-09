@@ -1,0 +1,26 @@
+{
+  "name": "ts-ds",
+  "version": "1.0.0",
+  "description": "Typescript data stuctures library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpeski/ts-ds.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "ds",
+    "typescript"
+  ],
+  "author": "Olayinka Ogunwemimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpeski/ts-ds/issues"
+  },
+  "homepage": "https://github.com/mrpeski/ts-ds#readme"
+}
